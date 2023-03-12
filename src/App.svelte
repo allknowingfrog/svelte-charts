@@ -1,5 +1,5 @@
 <script>
-  import Counter from './lib/Counter.svelte'
+  import Chart from './lib/Chart.svelte'
 </script>
 
 <main>
@@ -9,7 +9,7 @@
   <h1>Svelte Charts</h1>
 
   <div class="card">
-    <Counter />
+    <Chart />
   </div>
 </main>
 

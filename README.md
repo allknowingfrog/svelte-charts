@@ -1,4 +1,4 @@
-# To Do
+# Svelte Charts
 
 Demo Chart UI.
 
